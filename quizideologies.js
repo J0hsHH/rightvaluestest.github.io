@@ -94,15 +94,15 @@ ideologies = [
     },
     {
         "name": "Constitutional Monarchism",
-        "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc.",
+        "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, norway etc.",
         "i18n": {
             "de": {
                 "name": "Constitutional Monarchism",
-                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc."
+                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, norway etc."
             },
             "ko": {
                 "name": "Constitutional Monarchism",
-                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc."
+                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, norway etc."
             }
         },
         "stats": {
